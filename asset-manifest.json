@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ab63d118.css",
-    "main.js": "/static/js/main.8db6779f.js",
+    "main.js": "/static/js/main.82a2fed4.js",
     "static/media/admin.mp4": "/static/media/admin.c6118b3eccd88886cf1a.mp4",
     "static/media/grad.jpg": "/static/media/grad.933d6c8638bf97a0a73b.jpg",
     "static/media/bluehead.jpg": "/static/media/bluehead.46349f1b810059829261.jpg",
@@ -63,10 +63,10 @@
     "static/media/location.png": "/static/media/location.528ab0f41ea97a1be24a.png",
     "index.html": "/index.html",
     "main.ab63d118.css.map": "/static/css/main.ab63d118.css.map",
-    "main.8db6779f.js.map": "/static/js/main.8db6779f.js.map"
+    "main.82a2fed4.js.map": "/static/js/main.82a2fed4.js.map"
   },
   "entrypoints": [
     "static/css/main.ab63d118.css",
-    "static/js/main.8db6779f.js"
+    "static/js/main.82a2fed4.js"
   ]
 }
